@@ -1,0 +1,21 @@
+{
+    "name": "zlatov/text",
+    "description": "Some methods",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksim Zlatov",
+            "email": "zlatov@ya.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zlatov\\Tree\\": "src/"
+        }
+    }
+}
