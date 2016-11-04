@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zlatov\\Tree\\": "src/"
+            "zlatov\\text\\": "src/"
         }
     }
 }
